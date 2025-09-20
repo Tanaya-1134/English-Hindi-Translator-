@@ -1,0 +1,7 @@
+flask
+flask-cors
+transformers[sentencepiece]
+tensorflow
+sacrebleu
+spacy
+gTTS
